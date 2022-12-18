@@ -7,6 +7,12 @@ sites:
     url: http://timyg.org
   - name: Discord
     url: https://discord.com
+  - name: Main Pool Site
+    url: http://rtm.timyg.org
+  - name: Thoon Pool
+    url: http://rtm.timyg.org:3090
+  - name: YERB Pool
+    url: http://rtm.timyg.org:2080
 
 
 status-website:
