@@ -6,7 +6,7 @@ sites:
   - name: TG's Site
     url: http://timyg.org
   - name: Discord
-    url: hhttps://discord.com/
+    url: https://discord.com
 
 
 status-website:
