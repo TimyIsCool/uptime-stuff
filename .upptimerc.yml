@@ -9,12 +9,7 @@ sites:
     url: https://discord.com
   - name: Main Pool Site
     url: http://rtm.timyg.org
-  - name: Thoon Pool
-    url: http://rtm.timyg.org:3090
-    method: GET
-  - name: YERB Pool
-    url: http://rtm.timyg.org:2080
-    method: GET
+
 
 
 status-website:
