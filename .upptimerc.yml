@@ -11,10 +11,10 @@ sites:
     url: http://rtm.timyg.org
   - name: Thoon Pool
     url: http://rtm.timyg.org:3090
-    method: POST
+    method: GET
   - name: YERB Pool
     url: http://rtm.timyg.org:2080
-    method: POST
+    method: GET
 
 
 status-website:
