@@ -4,7 +4,7 @@
     "url": "http://timyg.org",
     "icon": "https://icons.duckduckgo.com/ip3/timyg.org.ico",
     "slug": "tg-s-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 539,
     "timeMonth": 597,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-17": 0
+    }
   },
   {
     "name": "Discord",
