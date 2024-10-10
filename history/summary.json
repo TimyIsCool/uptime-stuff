@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/timyg.org.ico",
     "slug": "tg-s-site",
     "status": "down",
-    "uptime": "4.56%",
+    "uptime": "4.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-09": 62,
+      "2024-10-10": 62,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -379,8 +380,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -389,19 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 81,
-    "timeDay": 93,
-    "timeWeek": 114,
+    "timeDay": 100,
+    "timeWeek": 112,
     "timeMonth": 116,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2023-10-11": 48
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Main Pool Site",
@@ -409,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtm.timyg.org.ico",
     "slug": "main-pool-site",
     "status": "down",
-    "uptime": "27.84%",
+    "uptime": "27.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -420,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-09": 62,
+      "2024-10-10": 62,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -783,8 +782,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   }
 ]
