@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/timyg.org.ico",
     "slug": "tg-s-site",
     "status": "up",
-    "uptime": "4.40%",
-    "uptimeDay": "86.71%",
-    "uptimeWeek": "12.39%",
-    "uptimeMonth": "0.94%",
-    "uptimeYear": "0.00%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "uptime": "4.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.66%",
+    "uptimeMonth": "4.23%",
+    "uptimeYear": "0.24%",
+    "time": 209,
+    "timeDay": 250,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -378,8 +378,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 1440
+      "2023-11-25": 1440
     }
   },
   {
@@ -393,10 +392,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 121,
+    "time": 85,
+    "timeDay": 96,
     "timeWeek": 154,
-    "timeMonth": 111,
+    "timeMonth": 110,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -406,16 +405,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtm.timyg.org.ico",
     "slug": "main-pool-site",
     "status": "up",
-    "uptime": "26.22%",
-    "uptimeDay": "86.71%",
-    "uptimeWeek": "12.39%",
-    "uptimeMonth": "0.94%",
-    "uptimeYear": "0.00%",
-    "time": 292,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "uptime": "26.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.66%",
+    "uptimeMonth": "4.23%",
+    "uptimeYear": "0.24%",
+    "time": 285,
+    "timeDay": 252,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -779,8 +778,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 1440
+      "2023-11-25": 1440
     }
   }
 ]
