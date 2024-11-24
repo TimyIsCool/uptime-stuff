@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/timyg.org.ico",
     "slug": "tg-s-site",
     "status": "up",
-    "uptime": "4.53%",
+    "uptime": "4.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.66%",
-    "uptimeMonth": "4.23%",
-    "uptimeYear": "0.24%",
-    "time": 209,
-    "timeDay": 250,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "uptimeWeek": "41.00%",
+    "uptimeMonth": "7.53%",
+    "uptimeYear": "0.51%",
+    "time": 213,
+    "timeDay": 226,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -377,8 +377,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -392,10 +391,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 96,
-    "timeWeek": 154,
-    "timeMonth": 110,
+    "time": 84,
+    "timeDay": 82,
+    "timeWeek": 135,
+    "timeMonth": 109,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -405,16 +404,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtm.timyg.org.ico",
     "slug": "main-pool-site",
     "status": "up",
-    "uptime": "26.33%",
+    "uptime": "26.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.66%",
-    "uptimeMonth": "4.23%",
-    "uptimeYear": "0.24%",
-    "time": 285,
-    "timeDay": 252,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "uptimeWeek": "41.00%",
+    "uptimeMonth": "7.53%",
+    "uptimeYear": "0.51%",
+    "time": 278,
+    "timeDay": 235,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -777,8 +776,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   }
 ]
