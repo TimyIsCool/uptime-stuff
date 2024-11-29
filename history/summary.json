@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/timyg.org.ico",
     "slug": "tg-s-site",
     "status": "up",
-    "uptime": "5.20%",
+    "uptime": "5.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "20.67%",
-    "uptimeYear": "1.61%",
-    "time": 218,
-    "timeDay": 234,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "23.96%",
+    "uptimeYear": "1.88%",
+    "time": 221,
+    "timeDay": 251,
+    "timeWeek": 231,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -372,8 +372,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -388,9 +387,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 67,
-    "timeWeek": 92,
-    "timeMonth": 106,
+    "timeDay": 158,
+    "timeWeek": 98,
+    "timeMonth": 108,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -400,16 +399,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtm.timyg.org.ico",
     "slug": "main-pool-site",
     "status": "up",
-    "uptime": "26.85%",
+    "uptime": "26.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "20.67%",
-    "uptimeYear": "1.61%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "23.96%",
+    "uptimeYear": "1.88%",
     "time": 269,
-    "timeDay": 251,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "timeDay": 270,
+    "timeWeek": 253,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2024-11-21": 258,
       "2024-11-20": 1440,
@@ -767,8 +766,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   }
 ]
